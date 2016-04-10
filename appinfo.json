@@ -1,0 +1,19 @@
+{
+  "uuid": "901018d2-e4c1-41a5-b360-fe3cf9359d2d",
+  "shortName": "Flight Time",
+  "longName": "Flight Time",
+  "companyName": "matt",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite"],
+  "enableMultiJS": true,
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
